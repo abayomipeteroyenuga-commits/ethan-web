@@ -1,0 +1,8 @@
+ETHAN DIGITAL ACADEMY WEBSITE v2.1 PROFESSIONAL — AUDIT
+- Removed the dash before Mr. Abayomi Peter Oyenuga in the founder attribution.
+- Founder vision text otherwise retained.
+- News & Events page rewritten as a professional Academy impact/development page.
+- Removed learner-profile placeholders and unverified upcoming event claims.
+- Added professional content covering digital capacity, young learners, professionals/business, practical application, digital services and future development.
+- 100-course catalogue retained and audited at exactly 100 courses.
+- Premium fonts, stylish navigation, official Ethan logo, founder image, hero visual, responsive design and Vercel configuration retained.

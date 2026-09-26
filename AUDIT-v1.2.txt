@@ -1,0 +1,5 @@
+ETHAN DIGITAL ACADEMY WEBSITE v1.2 — AUDIT
+- Founder’s vision quotation updated.
+- Removed the em dashes around “young or old” and replaced them with commas.
+- Founder attribution remains: Mr. Abayomi Peter Oyenuga.
+- All existing pages, official uploaded logo, hero visual, navigation and Vercel configuration retained.

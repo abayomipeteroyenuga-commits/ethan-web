@@ -1,0 +1,7 @@
+ETHAN DIGITAL ACADEMY WEBSITE v2.2 — WHATSAPP REQUESTS
+- Website request forms now prepare and open a structured WhatsApp request.
+- Primary receiving WhatsApp line: +234 806 465 6499.
+- Submitted form details are formatted into a WhatsApp message.
+- Visitor must tap Send in WhatsApp to complete delivery; the website cannot silently send a WhatsApp message on the visitor's behalf.
+- No API keys or private credentials are exposed.
+- Existing 100-course catalogue, professional styling, News/Impact page, founder content, SEO and Vercel configuration retained.

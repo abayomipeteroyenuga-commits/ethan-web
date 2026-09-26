@@ -1,0 +1,14 @@
+ETHAN DIGITAL ACADEMY WEBSITE v2.0 PROFESSIONAL — AUDIT
+- Premium Manrope typography and refined institutional visual styling added.
+- Main menu redesigned with polished pill navigation, hover and active states.
+- Seven primary navigation pages remain independent.
+- Programme catalogue expanded to exactly 100 courses.
+- Search and category filtering added to the 100-course catalogue.
+- News & Events redesigned with Academy news, upcoming activity themes and learner-success section.
+- No fictional learner names, photos, achievements or event dates were invented; verified profiles/dates can be inserted later.
+- Existing official uploaded Ethan logo retained.
+- Existing founder image and approved founder profile retained.
+- Homepage youth digital-learning hero retained.
+- Responsive layouts, SEO files, sitemap, robots.txt and Vercel configuration retained.
+- WhatsApp/email links retained.
+- Forms remain front-end UI pending secure backend connection.
