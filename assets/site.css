@@ -22,3 +22,11 @@ form{display:grid;grid-template-columns:1fr 1fr;gap:14px}.full{grid-column:1/-1}
 .contactbar{background:#eaf3ff;border-radius:16px;padding:24px}.contactbar a{color:var(--blue);font-weight:800}
 footer{background:#04142f;color:#c8d5e8;padding:52px 0 25px}.foot{display:grid;grid-template-columns:2fr 1fr 1fr;gap:35px}.foot h3{color:#fff}.foot a{display:block;margin:7px 0}.copyright{border-top:1px solid #213456;margin-top:30px;padding-top:20px;font-size:13px}
 @media(max-width:900px){.menu{display:block}nav{display:none;position:absolute;left:0;right:0;top:78px;background:#fff;padding:15px 4%;flex-direction:column;align-items:stretch;border-bottom:1px solid #ddd}nav.open{display:flex}nav a{padding:9px}.hero .container,.twocol{grid-template-columns:1fr}.hero .container{padding:70px 0}.hero-card{display:none}.grid{grid-template-columns:1fr 1fr}.foot{grid-template-columns:1fr}.list,.category ul{columns:1}}@media(max-width:620px){.grid{grid-template-columns:1fr}form{grid-template-columns:1fr}.full{grid-column:auto}.brand b{font-size:12px}section{padding:55px 0}.pagehero h1{font-size:38px}}
+
+.hero-visual{min-height:430px;border-radius:24px;background:
+linear-gradient(180deg,rgba(7,29,73,.02),rgba(7,29,73,.18)),
+url('hero-youth-digital-learning.jpg') center/cover no-repeat;
+box-shadow:0 22px 55px rgba(0,0,0,.22);border:1px solid rgba(255,255,255,.22)}
+.hero-note{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.hero-note span{padding:7px 10px;border-radius:999px;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.18);font-size:12px;font-weight:700}
+@media(max-width:900px){.hero-visual{display:block;min-height:330px;order:-1}.hero .container{grid-template-columns:1fr}}

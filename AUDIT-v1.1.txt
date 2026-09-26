@@ -1,0 +1,12 @@
+ETHAN DIGITAL ACADEMY WEBSITE v1.1 — AUDIT
+- Official uploaded Ethan Digital Academy logo retained as the website logo.
+- Removed duplicated logo card from homepage hero.
+- Added youths learning in a modern digital environment to the homepage hero.
+- Hero image is cropped to exclude AI-generated branding/logo.
+- Main navigation remains independent pages: Home, About Us, Programmes & Training, Digital Services, Founder’s Corner, News & Events, Contact Us.
+- Responsive navigation retained.
+- Founder image retained.
+- SEO: titles, descriptions, canonical URLs, robots.txt and sitemap.xml retained.
+- Vercel cleanUrls configuration retained.
+- WhatsApp and email links retained.
+- Training, digital services and contact forms retained as UI; backend submission connection remains a future integration.
