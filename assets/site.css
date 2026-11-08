@@ -13,3 +13,14 @@ form{display:grid;grid-template-columns:1fr 1fr;gap:14px}.full{grid-column:1/-1}
 footer{background:#03142f;color:#c7d6e9;padding:50px 0 22px}.foot{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:30px}.foot h3{color:#fff}.foot a{display:block;margin:7px 0;font-size:13px}.copyright{border-top:1px solid #203858;margin-top:28px;padding-top:18px;font-size:12px;display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
 @media(max-width:980px){.menu{display:block}nav{display:none;position:absolute;left:0;right:0;top:76px;background:#fff;padding:15px 4%;flex-direction:column;align-items:stretch;border-bottom:1px solid var(--line);max-height:75vh;overflow:auto}nav.open{display:flex}nav a{padding:8px}.hero .container,.twocol{grid-template-columns:1fr}.hero .container{padding:65px 0}.hero-panel{display:none}.grid4,.eco{grid-template-columns:repeat(2,1fr)}.foot{grid-template-columns:1fr 1fr}.topbar{display:none}}
 @media(max-width:650px){.grid,.grid4,.eco{grid-template-columns:1fr}form{grid-template-columns:1fr}.full{grid-column:auto}.brand b{font-size:11px}.brand img{width:46px;height:46px}section{padding:52px 0}.foot{grid-template-columns:1fr}.hero h1{font-size:42px}.copyright{display:block}.hero-stats{grid-template-columns:1fr}}
+
+/* Homepage hero: African youth image on the left, existing message on the right. */
+.hero .container{min-height:620px;grid-template-columns:.92fr 1.08fr;gap:58px;padding-top:54px;padding-bottom:54px}
+.hero-photo{height:490px;min-height:0;overflow:hidden;border-radius:28px;border:1px solid rgba(255,255,255,.28);box-shadow:0 28px 75px #00132e88;background:#fff}
+.hero-photo img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 42%}
+.hero-copy{max-width:650px;padding:24px 0}
+.hero-copy h1{max-width:680px}
+.hero-promise{display:flex;gap:10px;flex-wrap:wrap;margin-top:30px}
+.hero-promise span{border:1px solid #ffffff45;background:#ffffff12;color:#fff;border-radius:999px;padding:7px 13px;font-size:11px;font-weight:900;letter-spacing:1.1px}
+@media(max-width:980px){.hero .container{grid-template-columns:1fr;gap:30px;padding-top:42px;padding-bottom:50px}.hero-photo{height:clamp(250px,58vw,430px);max-width:680px;width:100%;margin:auto}.hero-copy{max-width:760px;margin:auto}.hero-copy h1{font-size:clamp(38px,7vw,56px)}}
+@media(max-width:650px){.hero-photo{height:270px;border-radius:20px}.hero-copy{padding:0}.hero-copy h1{font-size:40px}}
